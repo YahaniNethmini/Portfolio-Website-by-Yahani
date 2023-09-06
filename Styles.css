@@ -1,0 +1,42 @@
+ul{
+	  list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: darkblue;
+}
+
+li {
+      float: left;
+}
+
+li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 24px 80px;
+      text-decoration: none;
+}
+
+h1{
+	font-size: 80px;
+	text-align: center;
+	color: skyblue;
+}
+
+h4{
+	font-size: 30px;
+	text-align: center;
+	color: skyblue;
+}
+
+h2{
+	font-size: 70px;
+	text-align: center;
+	font-style: italic;
+	color: skyblue;
+}
+
+img{
+	border-radius: 50%;
+}
